@@ -93,3 +93,38 @@ body {
     border-radius: 10px;
     border: none;
 }
+
+
+/* banner */
+.banner-container {
+    width: 100%;
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.banner {
+    width: 764px;
+    text-align: center;
+    font-family: "raleway";
+    margin: 0 auto;
+    
+}
+
+.banner p {
+    color: rgba(37, 36, 50, 1);
+    font-weight: 700;
+    font-size: 73.34px;
+    line-height: 73.34px;
+}
+
+.banner button {
+    width: 211px;
+    height: 60px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(37, 36, 50, 1);
+    margin-top: 45px;
+}
